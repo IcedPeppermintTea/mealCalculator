@@ -1,8 +1,5 @@
 /*
   mealCalc.cpp
-
-  COP 3003
-
   Program prompts user to enter a meal price, calculate tax and a subtotal, and then ask for a tip percentage and calculate the tip and total.
 */
 
